@@ -1,7 +1,7 @@
 FROM node:12.22.0-alpine
 
 LABEL AUTHOR="AUTHOR" 
-LABEL app="marketplace-demo"
+LABEL app="marketplace-demo-test-wf"
 
 RUN mkdir -p /usr/src/app
 
